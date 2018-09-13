@@ -2,7 +2,7 @@
 
 ## Objectif
 
-Le programme sert à résoudre l'équations non-linéaire décrivant les dimensions de l'enceinte connectée (modèle de LFPoulain sur YouTube). Pour cela on utilise la méthode de Newton.
+Le programme sert à résoudre l'équations non-linéaire décrivant les dimensions de l'enceinte connectée (modèle de Les Frères Poulain sur YouTube : https://youtu.be/ollr-PpCMAw). Pour cela on utilise la méthode de Newton (https://en.wikipedia.org/wiki/Newton's_method).
 
 ## Licence 
 
